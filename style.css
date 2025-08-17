@@ -80,8 +80,8 @@ body {
   height: 70px;
 }
 
-.nav-logo h2 {
-  color: var(--primary-color);
+.nav-logo h1 {
+  color: white;
   font-weight: var(--font-weight-bold);
   font-size: 1.5rem;
 }
@@ -94,7 +94,7 @@ body {
 
 .nav-link {
   text-decoration: none;
-  color: var(--text-primary);
+  color: white;
   font-weight: var(--font-weight-medium);
   transition: color 0.3s ease;
   position: relative;
